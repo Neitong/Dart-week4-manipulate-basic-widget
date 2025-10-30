@@ -7,9 +7,9 @@ void main() {
       home: Scaffold(
         body: Center(
           child: Container(
-            margin: const EdgeInsets.all(20.0),
+            margin: const EdgeInsets.all(40),
             padding:
-                const EdgeInsets.symmetric(vertical: 50.0, horizontal: 40.0),
+                const EdgeInsets.symmetric(vertical: 45.0, horizontal: 35.0),
             decoration: BoxDecoration(
               color: Colors.blue[300],
               borderRadius: BorderRadius.circular(25.0),

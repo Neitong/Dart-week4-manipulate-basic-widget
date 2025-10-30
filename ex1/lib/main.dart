@@ -5,14 +5,13 @@ void main() {
     const MaterialApp(
       debugShowCheckedModeBanner: false, 
       home: Scaffold(
-        
         body: Center(
-          
           child: Text(
-            'Hello my name is Neiton !', 
+            'Hello my name is Neitong !',
             style: TextStyle(
-              color: Colors.orange,
-              fontSize: 50,         
+              color: Colors.redAccent ,
+              fontWeight: FontWeight.bold,
+              fontSize: 30,
             ),
           ),
         ),
